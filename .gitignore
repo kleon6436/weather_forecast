@@ -1,0 +1,8 @@
+/target
+._.git
+._.gitignore
+._Cargo.lock
+._Cargo.toml
+._src
+._target
+src/._main.rs
